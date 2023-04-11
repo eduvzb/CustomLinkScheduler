@@ -1,6 +1,6 @@
-# AppointmentLink
+# CustomLinkScheduler 
 
-AppointmentLink is an open-source scheduling tool designed for healthcare professionals, such as dentists, psychologists, and doctors. It allows professionals to create a personalized scheduling link that their clients can use to book appointments based on their availability. Once a client has booked an appointment, they will receive a confirmation email, and the healthcare professional will be notified by email as well.
+CustomLinkScheduler is an open-source scheduling tool designed for healthcare professionals, such as dentists, psychologists, and doctors. It allows professionals to create a personalized scheduling link that their clients can use to book appointments based on their availability. Once a client has booked an appointment, they will receive a confirmation email, and the healthcare professional will be notified by email as well.
 
 ## Features
 
